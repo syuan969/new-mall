@@ -64,6 +64,6 @@ export default {
   top: 44px;
   padding-bottom: 93px;
   width: 100vw;
-  background-color: pink;
+  /* background-color: pink; */
 }
 </style>
